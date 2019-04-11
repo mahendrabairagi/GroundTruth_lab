@@ -2,4 +2,4 @@
 
 ### Step #1 Follow attached lab guide [here](labguide.pdf)
 
-### Follow python notebook below [here](catdog.ipynb)
+### Step #2 Follow Python notebook [here](catdog.ipynb)
